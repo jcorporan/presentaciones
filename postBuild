@@ -1,0 +1,4 @@
+#!/bin/bash
+jupyter nbextension enable --py --sys-prefix qgrid
+jupyter-nbextension install rise --py --sys-prefix
+jupyter-nbextension enable rise --py --sys-prefix
